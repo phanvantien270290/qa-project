@@ -19,7 +19,6 @@
 - Typescript
 
 ## Structure applied
-![Project Structure](https://i0.wp.com/blog.logrocket.com/wp-content/uploads/2019/10/business-logic-api-routes.png?w=730&ssl=1)
 
 **Routers** 
     --> **Controllers** 
@@ -29,8 +28,3 @@
 
 ## How to set it up
 - Updating...
-
-## Contributors:
-- [Phong V Lam](https://bitbucket.org/%7Ba6312c62-9c06-42f1-959c-2522b06579a8%7D/) - phong.lam@ccintegration.com
-- [Samuel Nguyen](https://bitbucket.org/%7B09794583-e4e4-42c0-a402-fffa19e7c655%7D/) - samuel.nguyen@ccintegration.com
-- [Phat Dang](https://bitbucket.org/%7Bcb2c1a9f-c59d-494d-9dd0-f2d3aed861be%7D/) - phat.dang@ccintegration.com
